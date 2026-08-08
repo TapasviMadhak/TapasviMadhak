@@ -5,7 +5,7 @@
   
   <p align="center">
     Building tools that make systems measurably more secure while hunting for vulnerabilities.<br/>
-    Currently preparing for the <b>Certified SOC Analyst (CSA)</b> by EC-Council.
+    EC-Council <b>Certified SOC Analyst (CSA)</b>.
   </p>
 
   <p align="center">
