@@ -49,15 +49,6 @@
 
 <br/>
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TapasviMadhak&show_icons=true&theme=radical&hide_border=true&bg_color=080808&title_color=22c55e&text_color=d8d8d8" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TapasviMadhak&theme=radical&hide_border=true&background=080808&ring=22c55e&fire=22c55e&currStreakLabel=d8d8d8" width="48%" />
-</div>
-
-<br/>
-
 ---
 <div align="center">
   <sub>Open to internships, security research collaboration, and CTF partnerships. Reach out!</sub>
