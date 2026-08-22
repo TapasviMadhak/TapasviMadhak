@@ -37,15 +37,19 @@
 <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
+**Cloud & Infrastructure**
+<br/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+
 <br/>
 
 ## 🏆 Featured Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| 🍯 [**HoneyTrace**](https://honeytrace.tapasvimadhak.works) | Honeypot & threat tracing system — detects, logs, and analyzes attacker behavior in real time | `JavaScript`, `AWS`, `Terraform` |
 | 🔒 [**BugForge-Hub**](https://bugforge.tapasvimadhak.works/) | Full-stack bug bounty & vulnerability disclosure platform | `TypeScript`, `React`, `Node` |
-| 🛡️ [**ares**](https://github.com/TapasviMadhak/ares) | Practical cyber tooling workflows | `Python` |
-| 🧰 [**CyberToolkit-v1.0**](https://github.com/TapasviMadhak/CyberToolkit-v1.0) | Utilities for day-to-day testing & security practice | `Python` |
 
 <br/>
 
